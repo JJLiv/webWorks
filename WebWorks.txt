@@ -1,0 +1,8 @@
+HTTP : Most common protocol hypertext transfer protocol
+
+URL : site address 
+
+DNS : domain name system converts human readable URLs into IP addresses
+
+Query string : info in a URL
+
